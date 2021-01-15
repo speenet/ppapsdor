@@ -1,4 +1,4 @@
-### Hello 👋 I am the Patrick,
+### Hello 👋 I am Patrick,
 also take a look at my Gists.
 
 https://gist.github.com/ppapsdor
