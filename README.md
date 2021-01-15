@@ -1,6 +1,7 @@
-### Hi there 👋
+### Hello 👋 I am the Patrick,
+also take a look at my Gists.
 
-Hello I am the Patrick, also take a look at my Gists.
+https://gist.github.com/ppapsdor
 
 <!--
 **ppapsdor/ppapsdor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
